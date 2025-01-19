@@ -24,6 +24,8 @@ Native Japanese Language Speaker/日本語で記述します。
 
 > [!NOTE]
 > 📢[PR] [OSSのノーコード・ローコード開発ツール Pleasanter](https://pleasanter.org/)を、ぜひお手元のPCでお試しください。
+>
+> ![image](https://github.com/user-attachments/assets/f298bca1-c580-4bc7-a1fe-625f87efa4cb)
 > 
 > 1⃣ 個人的おススメNo.1インストール手順 - Dockerイメージ＋Docker Compose
 > 
@@ -40,7 +42,7 @@ Native Japanese Language Speaker/日本語で記述します。
 >
 > --  
 > 📝このソフトウェアの用途 … メモ管理、スケジュール管理、情報共有、ワークフロー、チーム内掲示板　等  
-> （And more -> [Qiita](https://qiita.com/tags/pleasanter) / [Enterprise Cases](https://pleasanter.org/cases) / [YouTube-Video](https://www.youtube.com/@Pleasanter/videos)）
+> （And more -> [Qiita](https://qiita.com/tags/pleasanter) / [Enterprise Cases](https://pleasanter.org/cases) / [YouTube](https://www.youtube.com/@Pleasanter/videos)）
 
 ## Resume
 
