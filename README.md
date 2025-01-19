@@ -2,7 +2,7 @@
 
 ## Who am I/自己紹介
 
-@hmine-implem/Haruka Mine/Engineer at [Implem Inc.]()
+@hmine-implem/Haruka Mine/Engineer at [Implem Inc.](https://implem.co.jp/)
 
 ## Overview/概要
 
