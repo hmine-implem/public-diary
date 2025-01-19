@@ -23,12 +23,24 @@ Native Japanese Language Speaker/日本語で記述します。
 
 
 > [!NOTE]
-> 📢[PR] OSSのノーコード・ローコード開発ツール Pleasanterを、ぜひお手元のPCでお試しください。
+> 📢[PR] [OSSのノーコード・ローコード開発ツール Pleasanter](https://pleasanter.org/)を、ぜひお手元のPCでお試しください。
 > 
-> - [公式マニュアル：Dockerで起動する](https://www.pleasanter.org/ja/manual/getting-started-pleasanter-docker)
-> - [implem/pleasanter - Docker Image | Docker Hub](https://hub.docker.com/r/implem/pleasanter)
+> 1⃣ 個人的おススメNo.1インストール手順 - Dockerイメージ＋Docker Compose
+> 
+> - See -> [公式マニュアル：Dockerで起動する](https://www.pleasanter.org/ja/manual/getting-started-pleasanter-docker)
+>   - （参考用リンク：[implem/pleasanter - Docker Image | Docker Hub](https://hub.docker.com/r/implem/pleasanter)）
+> 
+> 2⃣ 個人的おススメNo.2インストール手順 - Releases＋Ubuntu
+> 
+> - See -> [公式マニュアル：プリザンターを Ubuntu にインストールする](https://www.pleasanter.org/ja/manual/getting-started-pleasanter-ubuntu)
+>   - （参考用リンク：[Releases · Implem/Implem.Pleasanter](https://github.com/Implem/Implem.Pleasanter/releases)）
 >
-> 📝用途…メモ管理、スケジュール管理、情報共有、ワークフロー、チーム内掲示板　等
+> --  
+> ※[他OSにインストールする手順もございます。](https://www.pleasanter.org/ja/manual?category=0090_0120)
+>
+> --  
+> 📝このソフトウェアの用途 … メモ管理、スケジュール管理、情報共有、ワークフロー、チーム内掲示板　等  
+> （And more -> [Qiita](https://qiita.com/tags/pleasanter) / [Enterprise Cases](https://pleasanter.org/cases) / [YouTube-Video](https://www.youtube.com/@Pleasanter/videos)）
 
 ## Resume
 
