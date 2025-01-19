@@ -38,7 +38,7 @@ Native Japanese Language Speaker/日本語で記述します。
 >   - （参考用リンク：[Releases · Implem/Implem.Pleasanter](https://github.com/Implem/Implem.Pleasanter/releases)）
 >
 > --  
-> ※[他OSにインストールする手順もございます。](https://www.pleasanter.org/ja/manual?category=0090_0120)
+> ※[他OSにインストールする手順もございます。](https://www.pleasanter.org/ja/manual?category=0090_0099)
 >
 > --  
 > 📝このソフトウェアの用途 … メモ管理、スケジュール管理、情報共有、ワークフロー、チーム内掲示板　等  
