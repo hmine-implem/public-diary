@@ -12,7 +12,7 @@ Native Japanese Language Speaker/日本語で記述します。
 
 2025年現在の主要な仕事は、[OSSのノーコード・ローコード開発ツール Pleasanter](https://pleasanter.org/)の機能追加です。
 
-- Official Release Notes -> [プリザンターの直近のバージョンアップ情報](プリザンターの直近のバージョンアップ情報)
+- Official Release Notes -> [プリザンターの直近のバージョンアップ情報](https://pleasanter.org/ja/manual/release-notes-core)
 
 - @hmine-implemがおこなったこと。　※上：新しい活動／下：過去の活動
   - 2025年 xxx
